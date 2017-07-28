@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class currency {
 	public static void main(String[] args)
 	{
-
+//currenty converter//
  char USD =67;
 	char pound = 87;
 	char yen = 165;
